@@ -87,7 +87,6 @@ async function boton() {
         //-------------------------------------------------------
     } catch (error) {
         console.error('Hubo un error en la solicitud:', error);
-        //document.getElementById('descripcion').innerText = 'Error al buscar pokémon';
     }
   
   }
